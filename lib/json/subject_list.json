@@ -1,0 +1,32 @@
+[
+  {
+    "subName": "Mathematics",
+    "image": "lib/icons/mathematics.png",
+    "percent": 0.5
+  },
+  {
+    "subName": "Science",
+    "image": "lib/icons/science.png",
+    "percent": 0.3
+  },
+  {
+    "subName": "Economics",
+    "image": "lib/icons/economic.png",
+    "percent": 0.1
+  },
+  {
+    "subName": "Computer",
+    "image": "lib/icons/computer.png",
+    "percent": 0.7
+  },
+  {
+    "subName": "History",
+    "image": "lib/icons/history.png",
+    "percent": 0.4
+  },
+  {
+    "subName": "Sport",
+    "image": "lib/icons/balls-sports.png",
+    "percent": 0.2
+  }
+]
